@@ -1,7 +1,15 @@
 # A Study on Solving the Inverse Kinematics of Serial Robots using Artificial Neural Network and Fuzzy Neural Network
 This repository containts implementation codes used in the paper "A Study on Solving the Inverse Kinematics of Serial Robots using Artificial Neural Network and Fuzzy Neural Network".
 
-## Files
+## Dependencies
+You need the following dependencies/libraries/softwares to run all the experiments
+- [x] Keras
+- [x] Tensorflow
+- [x] Python
+- [x] Matlab
+
+
+## Available scripts
 - [x] Script for Dataset Generation
 - [x] Script for Dataset Visualization
 - [ ] Script for IK Learning and Evaluation
