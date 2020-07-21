@@ -11,4 +11,3 @@ If you use the materials provided in this repository, please cite this work:
   year={2019},
   organization={IEEE}
 }
-
