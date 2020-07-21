@@ -12,7 +12,7 @@ You need the following dependencies/libraries/softwares to run all the experimen
 ## Available scripts
 - [x] Script for Dataset Generation
 - [x] Script for Dataset Visualization
-- [ ] Script for IK Learning and Evaluation
+- [ ] Script for Inverse Kinematics Learning and Evaluation
 
 ## Citations
 If you use the materials provided in this repository, please consider citing our work:
