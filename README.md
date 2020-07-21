@@ -2,9 +2,9 @@
 This repository containts implementation codes used in the paper "A Study on Solving the Inverse Kinematics of Serial Robots using Artificial Neural Network and Fuzzy Neural Network".
 
 ## Files
-| Plugin | README |
+| Tasks | Location |
 | ------ | ------ |
-| Datset Generation | [plugins/dropbox/README.md][PlDb] |
+| Dataset Generation | [dataset-generation/dataGen.py][PlDb] |
 
 ## Citations
 If you use the materials provided in this repository, please consider citing our work:
